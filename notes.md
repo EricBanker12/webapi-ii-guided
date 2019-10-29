@@ -24,3 +24,4 @@ REST(ish)
 |/updateChannel     | PUT /channels   |
 |/deleteChannel     | Delete /channels|
 |/findChannel?id=123| GET /channels/123
+
